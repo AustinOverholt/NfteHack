@@ -1,0 +1,27 @@
+﻿<mockup version="4.8" minAllowVersion="4.8" ID="1BD99348-08D0-4C67-A09C-3D8075EBEA58" platform="MtMobile" defaultW="375" defaultH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="375" measureH="667" clipArea="(0,0,0,0)">
+  <controls controlCount="4">
+    <control controlID="F539E6E8-1B4E-4D27-8169-90D3E401329A" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CD18299A-094E-4706-B453-F989D82F38FA" linkType="ltPageLink" isApplyIncludePage="False" title="Flappy1">
+          <area shape="0" alt="" ID="{224CD04D-001D-46D8-98DA-8E0D0FFC6A7E}" coords="(0,0,375,667)"/>
+        </link>
+      </links>
+      <URL>C5BD5A3D16F6C5EAD3F748BB2A5FD3C0.png</URL>
+    </control>
+    <control controlID="B9A9807D-2985-4709-8BD9-DC34750D4E50" controlTypeID="Image" x="180" y="40" w="175" h="66" zOrder="1">
+      <URL>5504E8979FB636DF4056EFC50858BE2A.png</URL>
+    </control>
+    <control controlID="651E787E-875A-4DE6-96C6-0E0818E9FDA6" controlTypeID="Image" x="21" y="48" w="159" h="68" zOrder="2">
+      <URL>4FE277C535DACAD1DC8EC3BC35E9C844.png</URL>
+    </control>
+    <control controlID="E4CA5B54-4719-4855-AB77-A353B9F2F48F" controlTypeID="Image" x="74" y="247" w="106" h="40" zOrder="3">
+      <URL>5504E8979FB636DF4056EFC50858BE2A.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
